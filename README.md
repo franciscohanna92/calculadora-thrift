@@ -11,7 +11,7 @@ Podés leer más en la página oficial del [proyecto Apache Trhift.](https://thr
 ## ¿Cómo usar este ejemplo?
 
 1. Clonar el reposotiro
-`git clone `
+`git clone https://github.com/franciscohanna92/calculadora-thrift.git`
 
 2. Instalar las dependencias
 `pip install -r requirements.txt`
